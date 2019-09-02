@@ -1,0 +1,11 @@
+﻿{
+  "Id": "theah.subnauticaresearch",
+  "DisplayName": "Subnautica Research Requirements",
+  "Author": "StephenEngland",
+  "Version": "1.0.0",
+  "Requires": [ "0Harmony.dll" ],
+  "Enable": true,
+  "AssemblyName": "SubnauticaResearchRequirements.dll",
+  "EntryMethod": "SubnauticaResearchRequirements.QPatch.Patch",
+  "Config": { }
+}

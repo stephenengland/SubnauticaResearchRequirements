@@ -1,0 +1,3 @@
+Compress-Archive -Path D:\SteamLibrary\steamapps\common\Subnautica\QMods\SubnauticaResearchRequirements\mod.json -DestinationPath mod.zip
+Compress-Archive -Path D:\SteamLibrary\steamapps\common\Subnautica\QMods\SubnauticaResearchRequirements\config.json -Update -DestinationPath mod.zip
+Compress-Archive -Path D:\SteamLibrary\steamapps\common\Subnautica\QMods\SubnauticaResearchRequirements\SubnauticaResearchRequirements.dll -Update -DestinationPath mod.zip
