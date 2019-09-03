@@ -1,6 +1,8 @@
 # SubnauticaResearchRequirements
 A Subnautica Mod that changes Blueprint Fragment requirements for replayability
 
+This mod has been deprecated in favor of https://www.nexusmods.com/subnautica/mods/193
+
 Warning!! This can make the game very difficult. You'll have to tweak it to get it the way you want to play the game.
 
 This will change the number of fragments required in order to add a blueprint. So if you do this to the `config.json` in the mod directory:
