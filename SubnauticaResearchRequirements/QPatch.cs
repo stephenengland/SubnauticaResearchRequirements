@@ -18,8 +18,7 @@ namespace SubnauticaResearchRequirements
 
         public static string GetModDirectory()
         {
-            string modDirectory = Path.Combine(Environment.CurrentDirectory, "QMods");
-            return Path.Combine(modDirectory, "SubnauticaResearchRequirements");
+            return new FileInfo(Assembly.GetExecutingAssembly().Location).Directory.FullName;
         }
 
         private static void ManageSettingsFile()
